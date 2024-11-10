@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+    "/home/sam/Documents/GitHub/ExtendedBlacklist/stubs/wot-py-autocomplete/src"
+]
+}
